@@ -1,9 +1,9 @@
 [package]
-name = "eframe_template"
+name = "web_rt"
 version = "0.1.0"
-authors = ["Emil Ernerfeldt <emil.ernerfeldt@gmail.com>"]
+authors = ["theoneyu <827115823@qq.com>"]
 edition = "2021"
-rust-version = "1.72"
+rust-version = "1.76"
 
 
 [dependencies]
